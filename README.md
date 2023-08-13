@@ -7,7 +7,8 @@ If you want to play the game itself, use the latest release.
 
 You can also download the game from Itch.io and Gamejolt: https://godresky.itch.io/drifting-spaceship https://gamejolt.com/games/driftingspaceship/638082
 
-To play:
+# To play:
+
 • WASD - Move, Ctrl - Crouch, F - Flashlight, R - Scaner, Tab - Tablet
 
 • Avoid the monster
