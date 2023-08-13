@@ -9,7 +9,11 @@ You can also download the game from Itch.io and Gamejolt: https://godresky.itch.
 
 To play:
 • WASD - Move, Ctrl - Crouch, F - Flashlight, R - Scaner, Tab - Tablet
+
 • Avoid the monster
+
 • Use the scanner to see the monster for a while
+
 • Use the coloured keys to open the door
+
 • Collect the captain's card and motherboard to repair the escape pod and escape
